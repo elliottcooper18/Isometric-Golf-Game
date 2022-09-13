@@ -1,0 +1,23 @@
+name:Neptune
+par:4
+colour:0, 201, 181
+gravity:-9.81
+surface:Slow
+surface_value:0.1
+ball_start_x:0
+ball_start_y:0
+black_hole_start_x:100
+black_hole_start_y:100
+black_hole_width:45
+black_hole_height:45
+worm_hole_start_x:0,20
+worm_hole_start_y:150,170
+worm_hole_start_z:0,0
+worm_hole_width:30
+worm_hole_height:30
+worm_hole_colour:43,0,40
+hole_x: 0
+hole_y: 180
+hole_width:20
+hole_height:20
+hole_colour:191, 0, 0

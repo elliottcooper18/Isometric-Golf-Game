@@ -1,0 +1,17 @@
+#1
+MENU = 1
+
+#2
+AIM = 2
+
+#3
+FLYING = 3
+
+#4
+BALL_IN_HOLE = 4
+
+#5
+GAME_OVER = 5
+
+#6
+POWER_UP = 6

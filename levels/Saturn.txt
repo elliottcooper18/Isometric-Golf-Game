@@ -1,0 +1,23 @@
+name:Saturn
+par:4
+colour:173, 43, 0
+gravity:-12
+surface:Slow
+surface_value:0.1
+ball_start_x:0
+ball_start_y:0
+black_hole_start_x:120
+black_hole_start_y:120
+black_hole_width:40
+black_hole_height:40
+worm_hole_width:25
+worm_hole_height:25
+worm_hole_start_x:140,45
+worm_hole_start_y:175,45
+worm_hole_start_z:0,0
+worm_hole_colour:43,0,40
+hole_x: 120
+hole_y: 180
+hole_width:20
+hole_height:20
+hole_colour:191, 0, 0

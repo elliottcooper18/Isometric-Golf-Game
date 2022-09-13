@@ -1,0 +1,25 @@
+name:Jupiter
+surface:Fast
+surface_value:0.95
+par:4
+colour:79, 20, 0
+gravity:-9.81
+ball_start_x:0
+ball_start_y:0
+black_hole_start_x:120
+black_hole_start_y:120
+black_hole_width:20
+black_hole_height:20
+worm_hole_start_x:0,153
+worm_hole_start_y:90,120
+worm_hole_start_z:0,0
+worm_hole_width:30
+worm_hole_height:30
+worm_hole_colour:43,0,40
+hole_x:170
+hole_y:170
+hole_width:30
+hole_height:30
+hole_colour:191, 0, 0
+bad_mystery_box_x:45
+bad_mystery_box_y:45
